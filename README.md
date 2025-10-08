@@ -1,4 +1,4 @@
-# Apple (AAPL) Stock Price Forecasting — SARIMA & LSTM
+# Apple (AAPL) Stock Price Forecasting - SARIMA & LSTM
 
 This repo forecasts **Apple (AAPL)** stock prices using classic time-series methods (ARIMA/SARIMAX) and a lightweight **LSTM** baseline.  
 
