@@ -12,8 +12,8 @@ It includes:
 
 ## Main Results 
 - **ARIMA**: suggested differencing **d = 1**; best non-seasonal order found **ARIMA(1,1,1)**  
-  - Validation **RMSE ≈ 4.91**
-- **LSTM** (10 epochs): **RMSE ≈ 6.09**
+  - Validation **RMSE = 4.91**
+- **LSTM** (10 epochs): **RMSE = 6.09**
 
 
 
